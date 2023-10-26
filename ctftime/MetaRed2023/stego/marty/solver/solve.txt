@@ -1,0 +1,2 @@
+stegseek marty.jpg
+cat marty.jpg.out
