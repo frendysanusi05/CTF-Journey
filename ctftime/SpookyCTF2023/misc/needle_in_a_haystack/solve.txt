@@ -1,0 +1,5 @@
+unzip haystack.zip
+cd haystack
+cat flag.txt.txt
+
+NICC{th4t_w45_345y}
